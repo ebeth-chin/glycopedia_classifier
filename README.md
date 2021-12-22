@@ -32,5 +32,6 @@ Here is the accuracy after training the model after adding a new classification 
 
 n classes | accuracy | fine-tuned accuracy | total time
 ----------|----------|---------------------|-----------
+3         |0.893     | 0.913 | < 5 min
 20        |0.698     | 0.811 | 11 min
 101       |0.579     | 0.678 | 1 h 12 min
